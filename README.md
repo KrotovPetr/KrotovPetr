@@ -8,6 +8,7 @@
 </p>
 <hr/>
 <h3>Languages</h3>
+Be soon...
 <div id="contacts">
 <h3>My contacts:</h3>
 <a href="https://github.com/KrotovPetr"><img src="https://img.shields.io/badge/Github-red?logo=Github&logoColor=white&style=for-the-badge" alt="Github Badge"/></a>
