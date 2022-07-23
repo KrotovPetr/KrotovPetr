@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Jest-blue?logo=Jest&logoColor=white&style=for-the-badge" alt="Jest Badge"/>
  </div>
  <hr/>
-  <h4>Tools and technology stack</h4>
+  <h3>Tools and technology stack</h3>
 <div id="technologyStack">
      <img src="https://img.shields.io/badge/Figma-ff69b4?logo=Figma&logoColor=white&style=for-the-badge" alt="Figma Badge"/>
       <img src="https://img.shields.io/badge/JetBrains-orange?logo=JB&logoColor=white&style=for-the-badge" alt="Jet Brains Badge"/>
@@ -55,7 +55,7 @@
 </div>
 <hr/>
 
-  <h4>Last projects</h4>
+  <h3>Last projects</h3>
 <div id="lastProjectsContainer">
 <ul>
 <li>
