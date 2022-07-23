@@ -81,6 +81,7 @@
 <a href="https://github.com/KrotovPetr"><img src="https://img.shields.io/badge/Github-red?logo=Github&logoColor=white&style=for-the-badge" alt="Github Badge"/></a>
   <a href="https://t.me/peter40127"><img src="https://img.shields.io/badge/Telegram-8cf?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/></a>
   <a href="https://vk.com/peter40127"><img src="https://img.shields.io/badge/vk-blue?logo=VK&logoColor=white&style=for-the-badge" alt="VK Badge"/></a>
+  <a href="https://www.codewars.com/users/petrkrotov"><img src="https://img.shields.io/badge/CodeWars-blueviolet?logo=CodeWars&logoColor=white&style=for-the-badge" alt="CodeWars Badge"/></a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=KrotovPetr&style=flat-square&color=blue" alt="Views counter"/>
   
