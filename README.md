@@ -12,6 +12,8 @@
 <div id="mainStackLanguages">
 <img src="https://img.shields.io/badge/TypeScript-blue?logo=TypeScript&logoColor=white&style=for-the-badge" alt="TypeScript Badge"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript&logoColor=white&style=for-the-badge" alt="JavaScript Badge"/>
+   <img src="https://img.shields.io/badge/HTML-orange?logo=HTML&logoColor=white&style=for-the-badge" alt="HTML Badge"/>
+   <img src="https://img.shields.io/badge/CSS-ff69b4?logo=CSS&logoColor=white&style=for-the-badge" alt="CSS Badge"/>
   </div>
 <h4>Small skills</h4>
 <div id="mainStackLanguages">
@@ -31,6 +33,18 @@
   <img src="https://img.shields.io/badge/Spring-brightgreen?logo=Spring&logoColor=white&style=for-the-badge" alt="Spring Badge"/>
  </div>
  <hr/>
+  <h4>Tools and technology stack</h4>
+<div id="technologyStack">
+     <img src="https://img.shields.io/badge/Figma-ff69b4?logo=Figma&logoColor=white&style=for-the-badge" alt="Figma Badge"/>
+      <img src="https://img.shields.io/badge/JetBrains-orange?logo=JB&logoColor=white&style=for-the-badge" alt="Jet Brains Badge"/>
+      <img src="https://img.shields.io/badge/VScode-blue?logo=VSCode&logoColor=white&style=for-the-badge" alt="VSCode Badge"/>
+      <img src="https://img.shields.io/badge/Git-critical?logo=Git&logoColor=white&style=for-the-badge" alt="Git Badge"/>
+ </div>
+<hr/>
+  <h4>Last projects</h4>
+<div id="lastProjectsContainer">
+   I promise, I will do this list very soon
+ </div>
 <div id="contacts">
 <h3>My contacts:</h3>
 <a href="https://github.com/KrotovPetr"><img src="https://img.shields.io/badge/Github-red?logo=Github&logoColor=white&style=for-the-badge" alt="Github Badge"/></a>
