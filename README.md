@@ -33,6 +33,8 @@
  <h4>Little work experience</h4>
  <div id="smallSkillsFrameworksAndLibraries">
   <img src="https://img.shields.io/badge/Spring-brightgreen?logo=Spring&logoColor=white&style=for-the-badge" alt="Spring Badge"/>
+  <img src="https://img.shields.io/badge/Express-white?logo=Express&logoColor=black&style=for-the-badge" alt="Express Badge"/>
+  <img src="https://img.shields.io/badge/Node.JS-grey?logo=Node.JS&logoColor=white&style=for-the-badge" alt="Node Badge"/>
   <img src="https://img.shields.io/badge/Jest-blue?logo=Jest&logoColor=white&style=for-the-badge" alt="Jest Badge"/>
  </div>
  <hr/>
@@ -72,6 +74,11 @@
   <h5>Yandex Practicum Project</h5>
   <p>TypeScript, JavaScript, React, Redux, CSS3, HTML5, Cypress, Jest</p>
    <a href="https://github.com/KrotovPetr/react-burger">Stellar Burger</a>
+</li>
+<li>
+  <h5>Online device-store (In progress)</h5>
+  <p>PERN(PostgresSQL, Express.JS, React, Node.JS)</p>
+   <a href="https://github.com/KrotovPetr/PERNshop">PERN shop</a>
 </li>
    </ul>
  </div>
