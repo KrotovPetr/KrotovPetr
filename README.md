@@ -7,12 +7,13 @@
 <p style="font-size: 18px; text-align: center">My name is Peter Krotov. I'm a student of RTU MIREA. I am a novice frontend developer with great desires and ambitions.
 </p>
 <hr/>
-<h3>Languages</h3>
+<h3>Languages && Template engines</h3>
 <h4>Main stack</h4>
 <div id="mainStackLanguages">
 <img src="https://img.shields.io/badge/TypeScript-blue?logo=TypeScript&logoColor=white&style=for-the-badge" alt="TypeScript Badge"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript&logoColor=white&style=for-the-badge" alt="JavaScript Badge"/>
    <img src="https://img.shields.io/badge/HTML5-orange?logo=HTML5&logoColor=white&style=for-the-badge" alt="HTML5 Badge"/>
+      <img src="https://img.shields.io/badge/Pug-brown?logo=Pug&logoColor=white&style=for-the-badge" alt="Pug Badge"/>
    <img src="https://img.shields.io/badge/CSS3-ff69b4?logo=CSS3&logoColor=white&style=for-the-badge" alt="CSS3 Badge"/>
    <img src="https://img.shields.io/badge/SASS-grey?logo=SASS&logoColor=white&style=for-the-badge" alt="SASS Badge"/>
   </div>
