@@ -77,11 +77,6 @@
   <p>TypeScript, JavaScript, React, Redux, CSS3, HTML5, Cypress, Jest</p>
    <a href="https://github.com/KrotovPetr/react-burger">Stellar Burger</a>
 </li>
-<li>
-  <h5>Online device-store (In progress)</h5>
-  <p>PERN(PostgresSQL, Express.JS, React, Node.JS)</p>
-   <a href="https://github.com/KrotovPetr/PERNshop">PERN shop</a>
-</li>
    </ul>
  </div>
  <hr/>
