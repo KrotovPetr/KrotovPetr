@@ -47,6 +47,7 @@
       <img src="https://img.shields.io/badge/VScode-blue?logo=VSCode&logoColor=white&style=for-the-badge" alt="VSCode Badge"/>
       <img src="https://img.shields.io/badge/Git-critical?logo=Git&logoColor=white&style=for-the-badge" alt="Git Badge"/>
       <img src="https://img.shields.io/badge/Docker-blue?logo=Docker&logoColor=white&style=for-the-badge" alt="Docker Badge"/>
+       <img src="https://img.shields.io/badge/MySQl-red?logo=MySql&logoColor=white&style=for-the-badge" alt="MySQL Badge"/>
       <img src="https://img.shields.io/badge/PostgreSQl-blue?logo=PostgreSQl&logoColor=white&style=for-the-badge" alt="PostgreSQL Badge"/>
        <img src="https://img.shields.io/badge/Linux-yellow?logo=Linux&logoColor=white&style=for-the-badge" alt="Linux Stats"/>
  </div>
