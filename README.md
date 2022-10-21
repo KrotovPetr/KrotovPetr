@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/С-brightgreen?logo=C&logoColor=white&style=for-the-badge" alt="C Badge"/>
   <img src="https://img.shields.io/badge/Java-red?logo=Java&logoColor=white&style=for-the-badge" alt="Java Badge"/>
   <img src="https://img.shields.io/badge/Python-grey?logo=Python&logoColor=white&style=for-the-badge" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/PHP-black?logo=PHP&logoColor=white&style=for-the-badge" alt="PHP Badge"/>
   </div>
 <hr/>
 <h3>Libraries, frameworks and testing tools</h3>
