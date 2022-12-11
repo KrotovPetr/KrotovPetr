@@ -19,7 +19,7 @@
   </div>
 <h4>Small skills</h4>
 <div id="mainStackLanguages">
-  <img src="https://img.shields.io/badge/С++-blueviolet?logo=&logoColor=white&style=for-the-badge" alt="C++ Badge"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
   <img src="https://img.shields.io/badge/С-brightgreen?logo=C&logoColor=white&style=for-the-badge" alt="C Badge"/>
   <img src="https://img.shields.io/badge/Java-red?logo=Java&logoColor=white&style=for-the-badge" alt="Java Badge"/>
   <img src="https://img.shields.io/badge/Python-grey?logo=Python&logoColor=white&style=for-the-badge" alt="Python Badge"/>
@@ -32,6 +32,7 @@
     <img src="https://img.shields.io/badge/React-blue?logo=React&logoColor=white&style=for-the-badge" alt="React Badge"/>
     <img src="https://img.shields.io/badge/Redux-blueviolet?logo=Redux&logoColor=white&style=for-the-badge" alt="Redux Badge"/>
     <img src="https://img.shields.io/badge/Cypress-9cf?logo=Cypress&logoColor=white&style=for-the-badge" alt="Cypress Badge"/>
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue Badge"/>
  </div>
  <h4>Little work experience</h4>
  <div id="smallSkillsFrameworksAndLibraries">
